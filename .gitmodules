@@ -1,0 +1,3 @@
+[submodule "Backend-SHBootcamp"]
+	path = Backend-SHBootcamp
+	url = https://github.com/SitanayaIvan/Backend-SHBootcamp.git
